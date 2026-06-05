@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm José Arcos 🫪</h1>
+<h1 align="center">Hi, I'm José Arcos 🐐</h1>
 
 <p align="center">
-  <strong>Software Engineer at <a href="https://github.com/feverup">Fever</a>.</strong><br>
+  <strong>Software Engineer at <a href="https://feverup.com">Fever</a>.</strong><br>
   React · TypeScript · Node · WordPress/PHP · Electron · MERN
 </p>
 
@@ -16,9 +16,9 @@
 
 ### 👋 About me
 
-I'm a software engineer based in Spain (Remote, CET) with ~13 years of experience shipping web and desktop products. I currently work at **Fever**, where I help architect and scale a distributed microsite network (Bedrock + WooCommerce + external APIs) that's grown to **40,000+ users and 3,000+ purchases/day**.
+I'm a software engineer based in Spain (Remote, CET) with ~13 years of experience building web and desktop products end to end. I currently work at **Fever**, where I design and help scale consumer-facing products.
 
-I care about the whole product — from data model to Core Web Vitals to a UI people actually enjoy. Lately I spend my free time building and open-sourcing small apps that solve real problems.
+I care about the whole product — from the first line of code to the experience people actually enjoy using. Lately I spend my free time building and open-sourcing small apps that solve real problems.
 
 ---
 
