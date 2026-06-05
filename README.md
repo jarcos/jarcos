@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer — I build products end to end.</strong><br>
-  React · TypeScript · Node · WordPress/PHP · Electron — currently MERN-focused at <a href="https://feverup.com">Fever</a>.
+  React · TypeScript · Node · WordPress/PHP · Electron · MERN - Software Engineer at <a href="https://feverup.com">Fever</a>.
 </p>
 
 <p align="center">
