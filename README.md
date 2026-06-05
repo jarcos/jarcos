@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm José Arcos 🐐</h1>
 
 <p align="center">
-  <strong>Software Engineer — I build products end to end.</strong><br>
-  React · TypeScript · Node · WordPress/PHP · Electron · MERN - Software Engineer at <a href="https://feverup.com">Fever</a>.
+  <strong>Software Engineer at <a href="https://feverup.com">Fever</a>.</strong><br>
+  React · TypeScript · Node · WordPress/PHP · Electron · MERN
 </p>
 
 <p align="center">
