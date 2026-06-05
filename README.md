@@ -66,8 +66,9 @@ A few more apps I'm working on and will open-source as they're ready:
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jarcos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarcos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+  <a href="https://github.com/jarcos?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/jarcos?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=1f6feb"></a>
+  <a href="https://github.com/jarcos/note-pilot/commits"><img alt="Last commit" src="https://img.shields.io/github/last-commit/jarcos/note-pilot?style=for-the-badge&logo=git&label=Last%20commit&labelColor=0d1117&color=1f6feb"></a>
+  <a href="https://github.com/jarcos?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Browse-all%20repos-1f6feb?style=for-the-badge&logo=github&labelColor=0d1117"></a>
 </p>
 
 ---
